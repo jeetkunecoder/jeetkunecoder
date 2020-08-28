@@ -8,12 +8,10 @@ main focus on Java and Scala development. 👨🏻‍💻 I hold a Computer Scie
 ## 💼  Things that I'm currently working on: 
 * Using Scala, Apache Storm, Kafka & Elasticsearch to develop a Realtime platform that processes millions of stories coming 
 from several social networks and sources of ingestion.
-* Taking an Apache Flink Online Course in Udemy.
 * Reinforcing my Algorithms and Data Structures knowledge by solving problems at different coding platforms. 
 * Learning editing photos with Adobe Lightroom, as well as editing videos with DaVinci Resolve.
 * Inquiring more about UX/UI.  
 * Creating and composing music for my instrumental guitar project http://www.thealphavendetta.com
-* Playing online battles in Mortal Kombat 11 and tournaments in eFootball PES 2020
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Software & Tech Skills 
 
