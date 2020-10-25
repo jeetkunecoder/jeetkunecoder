@@ -1,4 +1,4 @@
-# Darío Carrasquel, 
+# Darío Carrasquel 
 
 Hi 👋 , I'm Darío (he/him) - a Senior Software Engineer @Admios, a San Francisco based tech company in the United States. 
 I currently live in Panama City, Panama and am a native from Venezuela. I've been coding for more than 7 years with a 
