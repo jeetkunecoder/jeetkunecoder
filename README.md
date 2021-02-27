@@ -2,9 +2,7 @@
 
 Hi 👋 , I'm Darío, a Senior Software Engineer @Admios, a San Francisco-based tech company in the United States. 
 I currently live in Panama City, Panama, and am a native of Venezuela. I've been coding for more than 8 years, 
-mostly with a focus on Java and Scala development. 
-
-👨🏻‍💻 I hold a Computer Science Bachelor's degree at Universidad Simón Bolívar.
+mostly with a focus on Java and Scala development. I hold a Computer Science Bachelor's degree at Universidad Simón Bolívar.
 
 ## 💼  Things that I'm currently working on: 
 * Using Scala, Apache Storm, Kafka & Elasticsearch to develop a Real-time platform that processes millions of stories coming 
