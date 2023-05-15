@@ -4,15 +4,13 @@ Hi 👋 , I'm Darío, a Senior Software Engineer from Venezuela and currently li
 mostly with a focus on Java and Scala development. I hold a Computer Science Bachelor's degree at Universidad Simón Bolívar.
 
 ## 💼  Things that I'm currently working on: 
-* Using Scala, Apache Storm, Kafka & Elasticsearch to develop a Real-time platform that processes millions of stories coming 
-from several social networks and sources of ingestion.
-* Inquiring more about UX/UI.  
-* Creating and composing music for my instrumental guitar project http://www.thealphavendetta.com
+* Java Development
+* Creating and composing music for my instrumental guitar project
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Software & Tech Skills 
 
 *  Java, Scala
-*  Apache Storm, Kafka, Play Framework, Spring Boot
+*  Spring Boot, Apache Storm, Kafka, Play Framework, 
 *  PostgreSQL, MongoDB, Elasticsearch 
 *  AWS
 
