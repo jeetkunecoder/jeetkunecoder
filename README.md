@@ -1,7 +1,7 @@
 # Darío Carrasquel 
 
-Hi 👋 , I'm Darío, a Senior Software Engineer from Venezuela and currently living in Panama City, Panama. I've been coding for more than 8 years, 
-mostly with a focus on Java and Scala development. I hold a Computer Science Bachelor's degree at Universidad Simón Bolívar.
+Hi 👋 , I'm Darío, a Software Engineer currently living in Panama City, Panama. I've been coding for more than 10 years, 
+mostly with a focus on Java and Scala development.
 
 ## 💼  Things that I'm currently working on: 
 * Java Development
