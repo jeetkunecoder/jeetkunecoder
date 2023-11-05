@@ -14,7 +14,3 @@ mostly with a focus on Java and Scala development.
 *  PostgreSQL, MongoDB, Elasticsearch 
 *  AWS
 
-## Get in touch
-- LinkedIn: https://www.linkedin.com/in/dariocarrasquel/
-- Personal site: https://www.dariocarrasquel.com/
-- Instagram: https://instagram.com/thealphavendetta
