@@ -1,6 +1,6 @@
 # Darío Carrasquel 
 
-Hi 👋 , I'm Darío, a Software Engineer currently living in Panama City, Panama. I've been coding for more than 10 years, 
+Hi 👋 , I'm Darío, a Software Engineer currently interested in Backend development. I've been coding for more than 10 years, 
 mostly with a focus on Java and Scala development.
 
 ## 💼  Things that I'm currently working on: 
